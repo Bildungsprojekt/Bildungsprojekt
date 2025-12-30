@@ -24,7 +24,7 @@ Lizenz: CC-BY-SA 4.0. Bei Rechtsverletzungen haften."
 ## 🛠 Windsurf AI Workflow
 1. **Eigenen Branch:** `windsurf-prototyp`
 2. **Hauptbranch `main`:** Nur stabile Releases
-3. **Merge immer PR!**
+3. **Merge immer PR!** → Änderungen IMMER als Pull Request!
 
 ## 📧 Kontakt
 bildungsprojekt@protonmail.com

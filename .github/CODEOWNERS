@@ -1,0 +1,10 @@
+# CODEOWNERS – Automatische Reviews (zukünftig)
+# Jede PR braucht Review von Maintainer (später hinzufügen)
+
+# ALLE Dateien – DU als Eigentümer
+* @Bildungsprojekt
+
+# Code-Ordner – später Maintainer
+# src/ @zukünftiger-maintainer
+# app/ @zukünftiger-maintainer
+# backend/ @zukünftiger-maintainer

@@ -5,7 +5,7 @@
 Lizenz: CC-BY-SA 4.0. Bei Rechtsverletzungen haften."
 
 ## Workflow
-1. Issue erstellen: github.com/[DEINNAME]/bildungsprojekt/issues/new
+1. Issue erstellen: github.com/Bildungsprojekt/Bildungsprojekt/issues/new
 2. Titel + Inhalt + E-Mail angeben
 
 ## 🎯 Für Nicht-Programmierer (Ideen/Kommentare)
@@ -13,18 +13,23 @@ Lizenz: CC-BY-SA 4.0. Bei Rechtsverletzungen haften."
 **Issues:** Oben beschrieben
 
 ## 👨‍💻 Für Programmierer (Code)
-### Pull Request Regeln
-1. Beschreibung: "Was macht der Code?"
-2. Testanweisung: "Wie starte ich lokal?"
-3. Demo: Screenshot bevorzugt
-4. Branch: `feature/[name]`
+### Pull Request Regeln (WICHTIG!)
+1. **Beschreibung:** "Was macht der Code?"
+2. **Testanweisung:** "Wie starte ich lokal?"
+3. **Demo:** Screenshot/Video bevorzugt
+4. **Branch:** `feature/[name]` oder `fix/[name]`
 
-**Projektleitung testet:** App lädt? Funktioniert?
+**Projektleitung testet:**
+- Lädt die App?
+- Funktioniert die Änderung?
+- Sieht stabil aus?
 
-## 🛠 Windsurf AI Workflow
-1. **Eigenen Branch:** `windsurf-prototyp`
-2. **Hauptbranch `main`:** Nur stabile Releases
-3. **Merge immer PR!** → Änderungen IMMER als Pull Request!
+✅ **Merge nur nach erfolgreichem Test!**
+
+## 🛠 Branch Workflow
+- **main:** Nur stabile Releases
+- **windsurf-prototyp:** Experimente (Windsurf AI)
+- **feature/[name]:** Neue Features
 
 ## 📧 Kontakt
 bildungsprojekt@protonmail.com

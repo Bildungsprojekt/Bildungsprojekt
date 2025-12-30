@@ -28,7 +28,7 @@ Lizenz: CC-BY-SA 4.0. Bei Rechtsverletzungen haften."
 
 ## 🛠 Branch Workflow
 - **main:** Nur stabile Releases
-- **windsurf-prototyp:** Experimente (Windsurf AI)
+- **Prototyp:** Experimente 
 - **feature/[name]:** Neue Features
 
 ## 📧 Kontakt

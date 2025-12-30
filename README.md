@@ -1,10 +1,13 @@
-# Bildungsprojekt
-Kostenloses Open-Source-Bildungsprojekt
+# Bildungsprojekt 🚀
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+## 🚀 Aktueller Stand
+**prototyp:** Laufende Entwicklung ← **START HIER!**
+**main:** Stabile Releases (zukünftig)
 
-## Mitmachen
-1. CONTRIBUTING.md lesen
-2. Beitrag über Issues
+## 🆕 Mitmachen
+1. Fork `prototyp` 
+2. Änderungen machen (GitHub Editor / VS Code)
+3. PR zu main (wird getestet)
 
-Kontakt: bildungsprojekt@protonmail.com
+## 💡 Ideen
+github.com/Bildungsprojekt/Bildungsprojekt/issues/new

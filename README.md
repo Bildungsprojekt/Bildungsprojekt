@@ -1,4 +1,4 @@
-# Bildungsprojekt 🚀
+# Bildungsprojekt
 
 ## 🚀 Aktueller Stand
 **prototyp:** Laufende Entwicklung ← **START HIER!**

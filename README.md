@@ -3,12 +3,14 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [attached_file:1]
 
-## 🎯 **Zuerst lesen: Das E-Book!** 📚
-**Empfohlen für alle neuen Mitwirkenden!** Verstehe die Vision & Lernphilosophie.  
-**Warum?** Programmierer wissen dann, **warum** der Code so gestaltet ist.  
-[📖 E-Book herunterladen](EBOOK_LINK) | [✏️ Interaktiv mitbauen auf Wattpad](WATTPAD_LINK)
+## 🎯 **Dein Turbo-Start: Das E-Book!** 📚⚡
+**Lies es ZUERST – und werde zum Insider!** (30-60min)  
+**Stell dir vor:** Du verstehst die **GENIALE Vision** hinter jedem Code-Zeile!  
+**Du wirst denken:** "AHA! Deshalb ist es SO genial gebaut! 🔥"  
 
-**Community vervollständigt das Buch live!** → Dein Input zählt!
+[📖 E-Book schnappen](EBOOK_LINK) | [✏️ Community-Legende auf Wattpad werden](WATTPAD_LINK)
+
+**Das Buch lebt durch DICH!** Community macht es interaktiv & episch! 🌟
 
 ## 📋 Wichtige Dokumente
 - [AGB](AGB.md)

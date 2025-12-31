@@ -7,11 +7,11 @@
 
 **Lesen = **Game Changer!** 🔥** Erst dann codest du wie ein **Visionär!**
 
-Jede helfende Hand ist gerne willkommen und damit die Mitwirkung von jeder und jedem effizient dort landet, wo es genau gebraucht wird, wird als Inspiration für neue Ideen und Verständnis, weshalb so ein großartiges Projekt entstanden ist, empfohlen, das kostenlose E-Book zu lesen. Und das Beste? **Das Buch wird GEMEINSAM mit DIR gebaut!**  
+Jede helfende Hand ist gerne willkommen und damit die Mitwirkung von jeder und jedem effizient dort landet, wo es genau gebraucht wird. **Als Inspiration für neue Ideen und Verständnis, weshalb so ein großartiges Projekt entstanden ist, wird empfohlen, das kostenlose E-Book zu lesen.** Und das Beste? **Das Buch wird GEMEINSAM mit DIR gebaut!**  
 Auf Wattpad – interaktiv, lebendig, von der Community für die Community!   
 Hier kannst du dich über die neuesten Änderungen des Buchs informieren und ebenfalls die Beiträge und Meinungen der Community einsehen, damit jede mitwirkende Person im Bilde ist, was in jedem Bereich des Projekts möglichst transparent abgeht.
 
-Wenn man weiß, wohin die Reise geht, dann ist das Coden nicht "irgendein Code", sondern eine **kluge Architektur, das Sinn macht!** 
+Wenn man weiß, wohin die Reise geht, dann ist das Coden nicht "irgendein Code", sondern eine **kluge Architektur, die Sinn macht!** 
 
 **Das Buch lebt durch DICH!**🌟
 

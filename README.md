@@ -18,7 +18,6 @@ Hier findest du die neuesten Änderungen am Buch sowie Beiträge und Meinungen a
 
 Wenn man weiß, wohin die Reise geht, dann ist das Coden nicht "irgendein Code", sondern eine **kluge Architektur, die Sinn macht!** 
 
-  
 **Das Buch lebt durch DICH!** 🌟
 
 [📖 **E-Book JETZT starten!**](EBOOK_LINK) | [✨ **Wattpad-Revolution mitmachen!**](WATTPAD_LINK)

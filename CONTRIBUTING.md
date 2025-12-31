@@ -1,8 +1,12 @@
-# Beitrag Richtlinien – Bildungsprojekt
+## Beitrag Richtlinien – Bildungsprojekt
 
-## Rechtliche Erklärung
-"Ich bin Rechteinhaber oder habe Einwilligung. 
-Lizenz: CC-BY-SA 4.0. Bei Rechtsverletzungen haften."
+### Rechtliche Erklärung (muss gelesen werden!)
+**Durch Pull Request bestätige ich:**
+- Ich bin Rechteinhaber oder habe Einwilligung
+- Lizenz: CC-BY-SA 4.0 (weltweit, unbefristet)
+- Ich haften für Rechtsverletzungen
+
+**→ Weiter zu technischen Richtlinien**
 
 ## Workflow
 1. Issue erstellen: github.com/Bildungsprojekt/Bildungsprojekt/issues/new

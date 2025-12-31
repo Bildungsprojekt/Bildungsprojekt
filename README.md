@@ -3,8 +3,8 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [attached_file:1]
 
-## 🎯 **Dein Turbo-Start: Das E-Book!** 📚⚡
-**Lies es ZUERST – und werde zum Insider!** (30-60min)  
+## 🎯 **Dein Start: Das E-Book!** 📚
+**Lies es ZUERST – und werde zum Insider!**   
 **Stell dir vor:** Du verstehst die **GENIALE Vision** hinter jedem Code-Zeile!  
 **Du wirst denken:** "AHA! Deshalb ist es SO genial gebaut! 🔥"  
 

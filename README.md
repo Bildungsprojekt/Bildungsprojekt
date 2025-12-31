@@ -7,7 +7,7 @@
 
 Jede helfende Hand ist willkommen.
 
-Damit Beiträge von jeder und jedem effizient dort landen wo es genau gebraucht wird, empfehlen wir zur Orientierung und als Inspirationsquelle das kostenlose E-Book.
+Damit Beiträge von jeder und jedem effizient dort landen wo sie genau gebraucht werden, empfehlen wir zur Orientierung und als Inspirationsquelle das kostenlose E-Book.
 
 Es hilft dir zu verstehen, warum das Projekt so aufgebaut ist aber es ist keine Voraussetzung. Wichtig ist vor allem die Bereitschaft, Probleme wahrzunehmen und konstruktiv anzugehen.
 Und das Beste? **Das Buch wird GEMEINSAM mit DIR gebaut!**  

@@ -1,6 +1,6 @@
 # Beitrag Richtlinien – Bildungsprojekt
 
-## Rechtliche Erklärung (Pflicht!)
+## Rechtliche Erklärung
 "Ich bin Rechteinhaber oder habe Einwilligung. 
 Lizenz: CC-BY-SA 4.0. Bei Rechtsverletzungen haften."
 

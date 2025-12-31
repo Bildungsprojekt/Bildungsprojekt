@@ -4,7 +4,7 @@
 **Durch Pull Request bestätige ich:**
 - Ich bin Rechteinhaber oder habe Einwilligung
 - Lizenz: CC-BY-SA 4.0 (weltweit, unbefristet)
-- Ich haften für Rechtsverletzungen
+- Ich hafte für Rechtsverletzungen
 
 **↓ Weiter zu technischen Richtlinien ↓**
 

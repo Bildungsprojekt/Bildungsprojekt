@@ -1,10 +1,10 @@
-# Bildungsprojekt 🚀
+# Bildungsprojekt
 **Kostenloses Open-Source-Bildungsprojekt**
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [attached_file:1]
 
 ## 🎯 **Zuerst lesen: Das E-Book!** 📚
-**Empfohlen für alle neuen Mitwirkenden!** Verstehe die Vision & Lernphilosophie (30-60min).  
+**Empfohlen für alle neuen Mitwirkenden!** Verstehe die Vision & Lernphilosophie.  
 **Warum?** Programmierer wissen dann, **warum** der Code so gestaltet ist.  
 [📖 E-Book herunterladen](EBOOK_LINK) | [✏️ Interaktiv mitbauen auf Wattpad](WATTPAD_LINK)
 

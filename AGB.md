@@ -14,13 +14,11 @@
 ## § 3 Haftungsausschluss
 Keine Vorab-Prüfung (§ 10 TMG). Bei Kenntnis: Sofort-Entfernung.
 
-## ⚠️ ABMAHN-HOTLINE
-**RECHTSVERLETZUNG GEMELDET?**
+## ⚠️ RECHTSVERLETZUNGEN MELDEN
+**Urheberrechtsverstoß oder Missbrauch gefunden?**
 
 1. Beitrag sofort offline (innerhalb 24h)
 2. Nutzer wird informiert und ausgeschlossen  
 3. Abmahnkosten werden Nutzer in Rechnung gestellt
-
-**Abmahnungen:** bildungsprojekt@protonmail.com
 
 **Kontakt:** bildungsprojekt@protonmail.com

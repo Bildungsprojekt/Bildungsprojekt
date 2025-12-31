@@ -1,4 +1,11 @@
-# IMPRESSUM
+# IMPRESSUM – Bildungsprojekt
 
-**Kontakt:** bildungsprojekt@protonmail.com  
-**Lizenz:** CC-BY-SA 4.0
+**Bildungsprojekt** – Kostenloses Open-Source-Projekt
+
+**Verantwortlich:** [DEIN_NICKNAME]  
+**Kontakt:** bildungsprojekt@protonmail.com
+
+**Non-Profit | Lizenz:** CC-BY-SA 4.0  
+**Code:** github.com/Bildungsprojekt/Bildungsprojekt
+
+**AGB:** [AGB.md](AGB.md)

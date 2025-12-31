@@ -7,7 +7,7 @@
 
 Jede helfende Hand ist willkommen.
 Damit Beiträge möglichst wirksam sind, empfehlen wir zur Orientierung und als Inspirationsquelle das kostenlose E-Book.
-Es hilft dir zu verstehen, warum das Projekt so aufgebaut ist aber es ist keine Voraussetzung. ichtig ist vor allem die Bereitschaft, Probleme wahrzunehmen und konstruktiv anzugehen.
+Es hilft dir zu verstehen, warum das Projekt so aufgebaut ist aber es ist keine Voraussetzung. Wichtig ist vor allem die Bereitschaft, Probleme wahrzunehmen und konstruktiv anzugehen.
 Und das Beste? **Das Buch wird GEMEINSAM mit DIR gebaut!**  
 Auf Wattpad – interaktiv, lebendig, Von der Community für die Community!
 Hier findest du die neuesten Änderungen am Buch sowie Beiträge und Meinungen aus der Community, damit alle Beteiligten jederzeit transparent über den aktuellen Stand des Projekts informiert sind.

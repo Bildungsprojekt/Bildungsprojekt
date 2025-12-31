@@ -3,6 +3,7 @@
 **Bildungsprojekt** – Kostenloses Open-Source-Projekt
 
 **Verantwortlich:** Javi
+
 **Kontakt:** bildungsprojekt@protonmail.com
 
 **Non-Profit | Lizenz:** CC-BY-SA 4.0  

@@ -3,13 +3,16 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [attached_file:1]
 
-## 🎯 **DER SCHLÜSSEL: Dein kostenloses E-Book!** 📚
+## 🎯 **DER SCHLÜSSEL: Das kostenlose E-Book!** 📚
 
 **Lesen = **Game Changer!** 🔥** Erst dann codest du wie ein **Visionär!**
 
-Jede helfende Hand ist gerne willkommen und damit die Mitwirkung von jeder und jedem effizient dort landet, wo es genau gebraucht wird. **Als Inspiration für neue Ideen und Verständnis, weshalb so ein großartiges Projekt entstanden ist, wird empfohlen, das kostenlose E-Book zu lesen.** Und das Beste? **Das Buch wird GEMEINSAM mit DIR gebaut!**  
-Auf Wattpad – interaktiv, lebendig, von der Community für die Community!   
-Hier kannst du dich über die neuesten Änderungen des Buchs informieren und ebenfalls die Beiträge und Meinungen der Community einsehen, damit jede mitwirkende Person im Bilde ist, was in jedem Bereich des Projekts möglichst transparent abgeht.
+Jede helfende Hand ist willkommen.
+Damit Beiträge möglichst wirksam sind, empfehlen wir zur Orientierung und als Inspirationsquelle das kostenlose E-Book.
+Es hilft dir zu verstehen, warum das Projekt so aufgebaut ist aber es ist keine Voraussetzung. ichtig ist vor allem die Bereitschaft, Probleme wahrzunehmen und konstruktiv anzugehen.
+Und das Beste? **Das Buch wird GEMEINSAM mit DIR gebaut!**  
+Auf Wattpad – interaktiv, lebendig, Von der Community für die Community!
+Hier findest du die neuesten Änderungen am Buch sowie Beiträge und Meinungen aus der Community, damit alle Beteiligten jederzeit transparent über den aktuellen Stand des Projekts informiert sind.
 
 Wenn man weiß, wohin die Reise geht, dann ist das Coden nicht "irgendein Code", sondern eine **kluge Architektur, die Sinn macht!** 
 

@@ -6,7 +6,7 @@
 - Lizenz: CC-BY-SA 4.0 (weltweit, unbefristet)
 - Ich haften für Rechtsverletzungen
 
-**↓Weiter zu technischen Richtlinien↓**
+**↓ Weiter zu technischen Richtlinien ↓**
 
 ## Workflow
 1. Issue erstellen: github.com/Bildungsprojekt/Bildungsprojekt/issues/new

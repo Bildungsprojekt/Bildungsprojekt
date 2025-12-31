@@ -17,8 +17,8 @@ Keine Vorab-Prüfung (§ 10 TMG). Bei Kenntnis: Sofort-Entfernung.
 ## ⚠️ RECHTSVERLETZUNGEN MELDEN
 **Urheberrechtsverstoß oder Missbrauch gefunden?**
 
-1. Beitrag sofort offline (innerhalb 24h)
+1. Beitrag sofort offline (innerhalb 24h) [web:45]
 2. Nutzer wird informiert und ausgeschlossen  
-3. Abmahnkosten werden Nutzer in Rechnung gestellt
+3. **Nutzer haftet für Rechtsverletzungen** (§ 97a UrhG) [web:42]
 
 **Kontakt:** bildungsprojekt@protonmail.com

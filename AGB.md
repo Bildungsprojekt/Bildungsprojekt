@@ -4,7 +4,7 @@
 
 ## § 1 Projekt-Inhalte
 (1) Kollaboratives Erstellen von Lerninhalten  
-(2) Betreiber haftet nicht für User Generated Content
+(2) Der Betreiber übernimmt keine Haftung für Inhalte, die von Nutzern erstellt oder veröffentlicht werden.
 
 ## § 2 Nutzungsbedingungen für Beiträge
 (1) **Nutzer garantiert:** Rechteinhaber oder Einwilligung  

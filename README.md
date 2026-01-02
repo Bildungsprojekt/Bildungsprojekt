@@ -20,7 +20,7 @@ Wenn man weiß, wohin die Reise geht, dann ist das Coden nicht "irgendein Code",
 
 **Das Buch lebt durch DICH!** 🌟
 
-[📖 **E-Book JETZT starten!**](EBOOK_LINK) | [✨ **Wattpad-Revolution mitmachen!**](WATTPAD_LINK)
+[📖 **E-Book JETZT starten!**](EBOOK_LINK) | [✨ **AM BUCH TEILNEHMEN!**](WATTPAD_LINK)
 
 
 ## 📋 Wichtige Dokumente

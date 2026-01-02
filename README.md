@@ -14,9 +14,7 @@ Es hilft dir zu verstehen, warum das Projekt so aufgebaut ist aber es ist keine 
 Und das Beste? **Das Buch wird GEMEINSAM mit DIR gebaut!**  
 
 Auf Wattpad – interaktiv, lebendig, Von der Community für die Community!
-Hier findest du die neuesten Änderungen am Buch sowie Beiträge und Meinungen aus der Community, damit alle Beteiligten jederzeit transparent über den aktuellen Stand des Projekts informiert sind.
-
-Wenn man weiß, wohin die Reise geht, dann ist das Coden nicht "irgendein Code", sondern eine **kluge Architektur, die Sinn macht!** 
+Hier findest du die neuesten Beiträge aller aktiv Beteiligten, die dabei helfen, den Inhalt durch Meinungen, Vorschläge und Ideen nach und nach zu vervollständigen.
 
 **Das Buch lebt durch DICH!** 🌟
 

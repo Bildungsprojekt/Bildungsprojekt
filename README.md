@@ -11,7 +11,7 @@ Damit Beiträge von jeder und jedem effizient dort landen wo sie genau gebraucht
 
 Es hilft dir zu verstehen, warum das Projekt so aufgebaut ist aber es ist keine Voraussetzung. Wichtig ist vor allem die Bereitschaft, Probleme wahrzunehmen und konstruktiv anzugehen.
 
-Und das Beste? **Das Buch wird GEMEINSAM mit DIR gebaut!**  
+Und das Beste? Das Buch wird gemeinsam mit dir gebaut!  
 
 Auf Wattpad – interaktiv, lebendig, Von der Community für die Community!
 Hier findest du die neuesten Beiträge aller aktiv Beteiligten, die dabei helfen, den Inhalt durch Meinungen, Vorschläge und Ideen nach und nach zu vervollständigen.

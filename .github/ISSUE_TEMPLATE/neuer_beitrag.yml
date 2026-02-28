@@ -1,0 +1,43 @@
+name: Neuer Beitrag oder Ziel
+description: Reiche einen neuen Inhalt für das Buch oder die Software ein
+title: "[Beitrag]: "
+labels: ["neuer beitrag"]
+body:
+  - type: textarea
+    id: inhalt
+    attributes:
+      label: Inhalt des Beitrags
+      description: Beschreibe deine Idee oder füge deinen Text ein. Markdown wird unterstützt.
+    validations:
+      required: true
+  - type: dropdown
+    id: rechtliches
+    attributes:
+      label: Rechtliche Erklärung (Pflichtauswahl)
+      description: Bitte wähle die zutreffende Option. Mit dem Absenden dieses Formulars stimmst du den rechtlichen Bedingungen unter CC BY SA 4.0 zu.
+      options:
+        - "1. Ich bin Rechteinhaber des gesamten Inhalts"
+        - "2. Ich habe die Einwilligung des Rechteinhabers"
+        - "3. Public Domain oder CC Lizenz"
+    validations:
+      required: true
+  - type: textarea
+    id: rechtliche_details
+    attributes:
+      label: Rechtliche Details (Namen, Datum oder Quellenlink)
+      description: Wenn du oben Option 2 oder 3 gewählt hast, MUSST du hier die Quelle, den Rechteinhaber oder den Link zur Lizenz angeben.
+    validations:
+      required: false
+  - type: input
+    id: email
+    attributes:
+      label: E Mail Adresse (Pflichtfeld für rechtliche Rückfragen)
+      placeholder: deine.email@beispiel.de
+    validations:
+      required: true
+  - type: input
+    id: windsurf_link
+    attributes:
+      label: Windsurf AI Code Link (optional)
+    validations:
+      required: false

@@ -1,6 +1,6 @@
 # Richtlinien für Beiträge zum Bildungsprojekt
 
-Schön, dass du dabei bist! Egal ob du Texte für das E Book hast oder Code für die Bildungsplattform beisteuern willst, hier erfährst du genau, wie es geht.
+Schön, dass du dabei bist! Egal ob du Texte für das E-Book hast oder Code für die Bildungsplattform beisteuern willst, hier erfährst du genau, wie es geht.
 
 ## ⚖️ Die rechtliche Grundregel (Pflicht!)
 Sobald du hier etwas einreichst (über ein Issue Formular oder einen Pull Request), bestätigst du automatisch verbindlich:

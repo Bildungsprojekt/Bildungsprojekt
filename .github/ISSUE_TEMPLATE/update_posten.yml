@@ -1,0 +1,37 @@
+name: Aufgabe übernehmen oder Update posten
+description: Melde dich für eine Aufgabe oder gib ein Statusupdate
+title: "[Update]: "
+labels: ["status"]
+body:
+  - type: input
+    id: issue_link
+    attributes:
+      label: Link zum bestehenden Issue
+      description: An welcher Aufgabe arbeitest du? (Bitte Issue Nummer eintragen, z.B. #12)
+    validations:
+      required: true
+  - type: dropdown
+    id: art_der_meldung
+    attributes:
+      label: Art der Meldung
+      options:
+        - Aufgabe übernehmen
+        - Statusupdate
+        - Hilfe benötigt
+        - Änderung am Ziel vorschlagen
+    validations:
+      required: true
+  - type: textarea
+    id: aktueller_stand
+    attributes:
+      label: Aktueller Stand
+      description: Was hast du bisher gemacht oder wo klemmt es gerade?
+    validations:
+      required: true
+  - type: input
+    id: pr_link
+    attributes:
+      label: Pull Request Link (optional)
+      description: Falls du schon Code eingereicht hast, verlinke ihn hier.
+    validations:
+      required: false

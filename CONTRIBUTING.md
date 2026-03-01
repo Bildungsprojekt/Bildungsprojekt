@@ -1,5 +1,4 @@
 # Richtlinien für Beiträge zum Bildungsprojekt
-
 Schön, dass du dabei bist! Egal ob du Texte für das E-Book hast oder Code für die Bildungsplattform beisteuern willst, hier erfährst du genau, wie es geht.
 
 ## ⚖️ Die rechtliche Grundregel (Pflicht!)

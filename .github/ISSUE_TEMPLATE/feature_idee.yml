@@ -1,0 +1,43 @@
+name: Neue Feature Idee
+description: Schlage eine neue Funktion für die Bildungsplattform vor
+title: "[Feature]: "
+labels: ["idea"]
+body:
+  - type: textarea
+    id: idee
+    attributes:
+      label: Was soll die Plattform können?
+      description: Beschreibe deine Idee für ein neues Feature so genau wie möglich.
+    validations:
+      required: true
+  - type: textarea
+    id: nutzen
+    attributes:
+      label: Warum ist das wichtig?
+      description: Welchen Nutzen bringt diese Funktion für Lernende oder Lehrer?
+    validations:
+      required: true
+  - type: textarea
+    id: mockup
+    attributes:
+      label: Beispiel / Mockup
+      description: Wie soll es aussehen oder funktionieren? (Füge gerne Links zu Bildern ein)
+    validations:
+      required: false
+  - type: dropdown
+    id: rechtliches
+    attributes:
+      label: Rechtliche Erklärung (Pflichtauswahl)
+      description: Mit dem Absenden dieses Formulars stimmst du den rechtlichen Bedingungen unter CC BY SA 4.0 zu.
+      options:
+        - "1. Ich bin Rechteinhaber des gesamten Inhalts"
+        - "2. Ich habe die Einwilligung des Rechteinhabers"
+        - "3. Public Domain oder CC Lizenz"
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: E Mail Adresse (Pflichtfeld für Rückfragen)
+    validations:
+      required: true
